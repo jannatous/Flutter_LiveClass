@@ -35,7 +35,7 @@ class HomeScreen extends StatelessWidget{
               height: 200,
               margin: EdgeInsets.all(16),
               padding: EdgeInsets.all(10),
-              child: Text('Ayesha',style: TextStyle(color: Colors.white,fontSize: 25,fontWeight: FontWeight.bold),),
+              child: Text('Home',style: TextStyle(color: Colors.white,fontSize: 25,fontWeight: FontWeight.bold),),
               alignment: Alignment.center,
               decoration: BoxDecoration(
                 color: Colors.purple,
